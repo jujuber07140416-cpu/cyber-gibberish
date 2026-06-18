@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+.Trashes
+
+# Office temp
+~$*.docx
+~$*.xlsx
+
+# IDE
+*.code-workspace
+
+# Source documents (not needed for web)
+PTE必备词汇.docx
+PTE必备词汇.pdf
+
+# Deploy temp
+*-deploy/
